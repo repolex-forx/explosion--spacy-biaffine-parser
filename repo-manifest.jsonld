@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/explosion/spacy-biaffine-parser/commit/feb138256095deb5904c284a23330bb24f4daf01",
       "git:hexsha": "feb138256095deb5904c284a23330bb24f4daf01",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/explosion/spacy-biaffine-parser/commit/8aa3713e9c30d0028521cc251c72b767bf7e851b",
