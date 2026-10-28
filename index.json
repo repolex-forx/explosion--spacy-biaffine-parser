@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "spacy-biaffine-parser",
+  "versions": [
+    {
+      "commit": "feb138256095deb5904c284a23330bb24f4daf01",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:43:14.504556+00:00"
+    }
+  ]
+}
